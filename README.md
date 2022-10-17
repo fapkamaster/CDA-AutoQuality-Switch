@@ -1,5 +1,5 @@
 # CDA-AutoQuality-Switch
-Ten skrypt pozwoli Ci na "zapamiętanie" ostatnio wybranej jakości na cda.pl - działa zarówno na darmowych filmach, jak i filmach Premium.
+Ten skrypt pozwoli Ci na "zapamiętanie" ostatnio wybranej jakości na [cda.pl](https://cda.pl) - działa zarówno na darmowych filmach, jak i filmach Premium.
 
 Już nie będzie konieczności ręcznej zmiany jakości... (dopóki nie zmienią czegoś na stronie i skrypt przestanie działać... lub nie zmienisz przeglądarki - w każdej musisz zainstalować osobno.)
 
